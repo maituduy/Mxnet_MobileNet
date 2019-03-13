@@ -9,6 +9,7 @@
 - Papers :
   - https://arxiv.org/pdf/1704.04861.pdf
   - http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w32/Takagi_What_Makes_a_ICCV_2017_paper.pdf
+  - Data gốc: [Download](https://drive.google.com/open?id=1FYE3MRkzk-z6f6LFyQEflfER1F2Wx0Yd)
   
 ### Một số hình ảnh
 <figure>
@@ -24,4 +25,3 @@
   <img src="https://github.com/maituduy/Mxnet_MobileNet/blob/master/images/uDgke.gif?raw=true" alt=".."/>
 </figure>
 
-Data gốc: [Download](https://drive.google.com/open?id=1FYE3MRkzk-z6f6LFyQEflfER1F2Wx0Yd)
