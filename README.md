@@ -5,6 +5,7 @@
   - Train : `python train.py --data=data_path --target_model=model_path`
   
 - Predict: `python predict.py --model=model_path --image=image_path`
+- Application: [Demo MobileNet](https://github.com/maituduy/MobileNet-Application)
 
 - Papers :
   - https://arxiv.org/pdf/1704.04861.pdf
