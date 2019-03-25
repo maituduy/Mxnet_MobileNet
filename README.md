@@ -1,7 +1,7 @@
 # Mxnet_MobileNet
 
 - Train
-  - Download Data: [Download]https://drive.google.com/open?id=1QhRoyqEBbyvtVYstn7qAG7ixspJlD-Vd
+  - Download Data: [Download](https://drive.google.com/open?id=1QhRoyqEBbyvtVYstn7qAG7ixspJlD-Vd)
   - Train : `python train.py --data=data_path --target_model=model_path`
   
 - Predict: `python predict.py --model=model_path --image=image_path`
